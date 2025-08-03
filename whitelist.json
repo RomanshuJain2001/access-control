@@ -3,10 +3,5 @@
     "name": "Rohit",
     "expiry": "2025-08-10",
     "revoked": false
-  },
-  "eb3ed7c786": {
-    "name": "NewUserName",
-    "expiry": "2025-08-02",
-    "revoked": false
   }
 }
