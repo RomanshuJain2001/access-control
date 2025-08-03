@@ -1,5 +1,10 @@
 {
-  "f15693a19eea20ea": {
+  "eb3ed7c786": {
+    "name": "Romanshu",
+    "expiry": "2025-09-03"
+  },
+  "other_existing_code": {
+    "name": "AnotherUser",
     "expiry": "2025-08-10"
   }
 }
