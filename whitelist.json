@@ -1,13 +1,5 @@
 {
-   "f15693a19eea20ez": {
-    "name": "Rohit",
-    "expiry": "2025-08-10",
-    "revoked": false
-  },
-   "f15693a19eea20ea": {
-    "name": "Me",
-    "expiry": "2025-08-10",
-    "revoked": false
+  "f15693a19eea20ea": {
+    "expiry": "2025-08-10"
   }
 }
-
